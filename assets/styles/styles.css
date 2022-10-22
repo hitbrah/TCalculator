@@ -8,6 +8,7 @@ body {
     background-color: var(--primary-color);
     font-size: 15px;
     font-family: 'Courier New', Courier, monospace;
+    background-image: url("https://wallpaper.mob.org.pt/pc/image/downloadImage?id=42982&tag=3374&pc=1");
 }
 
 #container {
@@ -57,7 +58,7 @@ body {
     font-weight: bold;
     display: block;
     margin: 30px auto;
-    background: var(--primary-color);
+    background: rgb(24, 149, 19);
     border-radius: 5px;
     width: 200px;
     height: 50px;
